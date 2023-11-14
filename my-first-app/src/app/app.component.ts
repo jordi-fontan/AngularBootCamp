@@ -9,5 +9,6 @@ import { CommonModule } from '@angular/common';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'my-first-app';
+  title = ' la meva fantstica app';
+  name='';
 }
